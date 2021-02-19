@@ -1,0 +1,24 @@
+.root{
+    -fx-font-size: 16px;
+    -fx-background-image: url("../resources/sun-between-clouds.jpg");
+    -fx-background-size: 100% 100%;
+}
+
+.button{
+    -fx-background-color: #CCFFFF;
+}
+
+.button:hover{
+    -fx-background-color: #33CCFF;
+}
+
+.text-area{
+    -fx-background-color: #0000FF;
+    -fx-control-inner-background: #CCFFFF;
+    -fx-text-fill: #000099;
+    -fx-highlight-text-fill: #99CCFF;
+    -fx-highlight-fill: #FFFFCC;
+
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+}
